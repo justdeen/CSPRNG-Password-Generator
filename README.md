@@ -1,5 +1,5 @@
 ## 💫 Overview
-A cryptographically secure pseudorandom number generator (CSPRNG) password generator built using JavaScript, HTML, and CSS. This application generates strong, unique passwords between 5 and 15 characters in.
+A cryptographically secure pseudorandom number generator (CSPRNG) password generator built using JavaScript, HTML, and CSS. This application generates strong, unique passwords between 5 and 15 characters in length.
 
 ## 🪄 Features
 1. Generates cryptographically secure passwords using CSPRNG
