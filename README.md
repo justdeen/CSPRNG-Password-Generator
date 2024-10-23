@@ -13,5 +13,5 @@ A cryptographically secure pseudorandom number generator (CSPRNG) password gener
     - HTML for user interface
     - CSS for styling
 2. Utilizes CSPRNG algorithm for secure password generation
-3. Modular indexing technique ensures unpredictable and unique passwords
+3. Modular indexing method ensures unpredictable and unique passwords
 
