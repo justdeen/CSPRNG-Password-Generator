@@ -1,3 +1,5 @@
+![Notes_241026_131335_0ed](https://github.com/user-attachments/assets/2b6d56c5-6e9c-4c3e-8c42-8b8fe5a40ce9)
+
 ## 💫 Overview
 A cryptographically secure pseudorandom number generator (CSPRNG) password generator built using JavaScript, HTML, and CSS. This application generates strong, unique passwords between 5 and 15 characters in length.
 
