@@ -7,7 +7,7 @@ A cryptographically secure pseudorandom number generator (CSPRNG) password gener
 1. Generates cryptographically secure passwords using CSPRNG
 2. User-selectable password length (5-15 characters)
 3. Modular indexing method to combine characters and create passwords
-4. Secure and easy to use
+4. Secure and easy to use.
 
 ## ⚙️ Technical Details
 1. Built using:
